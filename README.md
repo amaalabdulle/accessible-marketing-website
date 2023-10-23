@@ -12,8 +12,8 @@ No steps required to install project.
 
 You can view the alt text of an image using either a screen reader or checking the websites html code. To view using the code: right click (mouse or trackpad) and click inspect, then check the html code for the alt attribute.
 
-![alt text](Assets/assets/images/finding-inspect.png)
-![alt text](Assets/assets/images/finding-alt-attribute.png)
+![alt text](starter/assets/images/finding-inspect.png)
+![alt text](starter/assets/images/finding-alt-attribute.png)
 
 
 ## Credits
