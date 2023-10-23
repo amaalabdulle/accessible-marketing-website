@@ -15,6 +15,7 @@ You can view the alt text of an image using either a screen reader or checking t
 ![alt text](starter/assets/images/finding-inspect.png)
 ![alt text](starter/assets/images/finding-alt-attribute.png)
 
+Link to deployed website: https://amaalabdulle.github.io/accessible-marketing-website/
 
 ## Credits
 
